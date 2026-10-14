@@ -47,7 +47,13 @@ luxury-fashion-market-intelligence/
 ├── dashboard/           # dashboard PDF and screenshots
 └── reports/             # PDF case study
 ```
+### Explore the Project
 
+- 📓 [Python Data Cleaning & Exploratory Analysis](notebooks/)
+- 🗄️ [PostgreSQL / SQL Analysis](sql/)
+- 📊 [Interactive Dashboard Export (PDF)](dashboard/)
+- 📄 [Business Case Study (PDF)](reports/)
+- 
 ## Dashboard
 Add your public, view-only Data Studio report link here once sharing permissions are checked. A static dashboard PDF can be placed in `dashboard/`.
 
