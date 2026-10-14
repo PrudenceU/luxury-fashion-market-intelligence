@@ -54,8 +54,18 @@ luxury-fashion-market-intelligence/
 - 📊 [Interactive Dashboard Export (PDF)](dashboard/)
 - 📄 [Business Case Study (PDF)](reports/)
 - 
-## Dashboard
-Add your public, view-only Data Studio report link here once sharing permissions are checked. A static dashboard PDF can be placed in `dashboard/`.
+## Interactive Dashboard
+
+Explore the interactive dashboard built using Google Looker Studio.
+
+🔗 [View Interactive Luxury Fashion Market Intelligence Dashboard](https://datastudio.google.com/reporting/093c0fef-f921-4c04-b07b-629d75eaa5f3)
+
+The dashboard includes:
+- 3 KPI cards covering product listings, average selling price, and discount rate.
+- 5 visualizations comparing product assortment, pricing, and discounting.
+- Interactive filters for brands and product categories.
+
+The analysis is based on a historical Farfetch France product-listing snapshot from 17 November 2023.
 
 ## Data and reproducibility
 The source is a Farfetch France listings snapshot dated 17 November 2023. Add a verified source URL and license/usage information before publishing. Avoid committing raw data, credentials, private file paths or files without confirmed redistribution rights.
